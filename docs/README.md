@@ -1,6 +1,4 @@
-PORPOISE <img src="logo.png" width="75px" align="right" />
-===========
-Retraining of Pan-Cancer Integrative Histology-Genomic Models using Site Preserved Cross Validation
+### Retraining of Pan-Cancer Integrative Histology-Genomic Models using Site Preserved Cross Validation
 
 [Original Cancer Cell Paper](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8) 
 [Site Preserved Cross Validation](https://www.nature.com/articles/s41467-021-24698-1)
