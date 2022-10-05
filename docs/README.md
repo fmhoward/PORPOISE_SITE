@@ -1,6 +1,7 @@
 ### Retraining of Pan-Cancer Integrative Histology-Genomic Models using Site Preserved Cross Validation
 
 [Original Cancer Cell Paper](https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00317-8) 
+
 [Site Preserved Cross Validation](https://www.nature.com/articles/s41467-021-24698-1)
 
 
@@ -10,7 +11,7 @@ Please follow installation guide as listed on [original PORPOISE repository](htt
 
 Training-validation splits from the original paper are found in the [splits/5foldcv](https://github.com/fmhoward/PORPOISE_SITE/tree/master/splits/5foldcv), and site-preserved splits are found in [splits/5foldcv_site](https://github.com/fmhoward/PORPOISE_SITE/tree/master/splits/5foldcv_site).
 
-Features were extracted using the CLAM package with the following commands:
+Features were extracted using the [CLAM package](https://github.com/mahmoodlab/CLAM) with the following commands:
 
 '''
 python create_patches_fp.py --source <SLIDE DIRCETORY> --save_dir <SAVE DIRECTORY> --patch_size 256 --seg --patch --stitch                                      
