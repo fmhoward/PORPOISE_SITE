@@ -69,7 +69,7 @@ Absolute Decline in Performance per model / tumor type, and percent decline rela
 
 
 ## Attribution
-If you use this code in your work or find it helpful, please consider citing our letter in <a href='https://doi.org/10.1016/j.ccell.2022.10.025'>Cancer Cell</a>.
+If you use this approach in your work or find it helpful, please consider citing our letter in <a href='https://doi.org/10.1016/j.ccell.2022.10.025'>Cancer Cell</a>.
 ```
 @article{HOWARD2022,
 title = {Multimodal deep learning: An improvement in prognostication or a reflection of batch effect?},
