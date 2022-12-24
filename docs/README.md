@@ -66,3 +66,18 @@ Absolute Decline in Performance per model / tumor type, and percent decline rela
 |PAAD   |0.088 (79)  |0.014 (22)  |0.01 (7)    |
 |BLCA   |-0.001 (-1) |0.013 (22)  |0.012 (9)   |
 |Average|0.024 (32)  |0.01 (15)   |0.032 (30)  |
+
+
+## Attribution
+If you use this code in your work or find it helpful, please consider citing our letter in <a href='https://doi.org/10.1016/j.ccell.2022.10.025'>Cancer Cell</a>.
+```
+@article{HOWARD2022,
+title = {Multimodal deep learning: An improvement in prognostication or a reflection of batch effect?},
+journal = {Cancer Cell},
+year = {2022},
+issn = {1535-6108},
+doi = {https://doi.org/10.1016/j.ccell.2022.10.025},
+url = {https://www.sciencedirect.com/science/article/pii/S1535610822005220},
+author = {Frederick M. Howard and Jakob Nikolas Kather and Alexander T. Pearson}
+}
+```
